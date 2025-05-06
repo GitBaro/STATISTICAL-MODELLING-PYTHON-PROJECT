@@ -12,15 +12,17 @@ The objective of the project is to make statistical analysis and models based on
 
 
 ## Results
-(fill in what you found about the comparative quality of API coverage in your chosen area and the results of your model.)
 -Yelp api offers fuller data when it comes to points of interest, such as ratings, rating counts, prices, etc.
+
 -There werent very powerful relationships in the model.
 
 ## Challenges 
 -Figuring out how to join the citybikes and yelp/foursquare api data
+
 -Pulling the proper data from the apis
 
 
 ## Future Goals
 -Trying to find more relevant informatioin, perhaps from diffirent api's to get fuller data
+
 -Running more statistical models and analysis to see more clear relationships
